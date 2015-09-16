@@ -1,0 +1,7 @@
+007-0406c00	T 007-0406c	buddhist/T-taisho/T47/04/T47-0406.png
+007-0407a00	T 007-0407a	buddhist/T-taisho/T47/04/T47-0407.png
+007-0407b00	T 007-0407b	buddhist/T-taisho/T47/04/T47-0407.png
+007-0407c00	T 007-0407c	buddhist/T-taisho/T47/04/T47-0407.png
+007-0408a00	T 007-0408a	buddhist/T-taisho/T47/04/T47-0408.png
+007-0408b00	T 007-0408b	buddhist/T-taisho/T47/04/T47-0408.png
+007-0408c00	T 007-0408c	buddhist/T-taisho/T47/04/T47-0408.png
