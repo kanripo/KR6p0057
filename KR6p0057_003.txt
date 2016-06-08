@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:35.039775
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1976
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0057_T_003-0395b> ¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 西方合論卷之三¶
+西方合論卷之三¶
 ¶
 
-3部類門
-:PROPERTIES:
-:head: 第三部類門
-:END:
-¶
+* 第三部類門¶
 
 夫如來說教，廣有多門，經中或偶一拈題，或¶
 因緣舉出者，不可勝載；唯念佛一門，頻形¶
@@ -201,7 +196,7 @@
 無上大乘法，得初歡喜地，往生安樂國。」
 
 一、《大¶
-悲經》云：「我滅度後，北天竺國有比丘，名祈婆¶
+悲經》云：「我滅度後，非天竺國有比丘，名祈婆¶
 伽，修習無量最勝善根。已而命終，生於西方，¶
 過百千億世界無量壽佛國，以後成佛，號無
 <pb:KR6p0057_T_003-0397a>¶
@@ -413,8 +408,8 @@
 　教海義無量，
 　甕觀捨少許。¶
 　一臠遍鼎味，
-　是中有全藏。
+　是中有全藏。」
 #+END_VERSE
-」¶
+¶
 西方合論卷之三(終)¶
 

@@ -1,24 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:35.152306
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1976
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0057_T_008-0408c> 
 #+PROPERTY: JUAN 8
 ¶
-
- 西方合論卷之八¶
+西方合論卷之八¶
 ¶
 
-8見網門
-:PROPERTIES:
-:head: 第八見網門
-:END:
-¶
+* 第八見網門¶
 
 夫一切迷情，依諸見起，履之則為稠林，溺¶
 之則為熱海。如蠶作繭，即住處為受縛之因；¶

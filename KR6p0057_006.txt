@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:35.115549
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1976
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0057_T_006-0404b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 西方合論卷之六¶
+西方合論卷之六¶
 ¶
 
-6稱性門
-:PROPERTIES:
-:head: 第六稱性門
-:END:
-¶
+* 第六稱性門¶
 
 夫一切賢聖，稱心而行，法性無邊，行海叵¶
 量。是故或一剎那中，行滿三祇；或恒河沙劫，

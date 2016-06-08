@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:35.207793
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1976
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0057_T_010-0417a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 西方合論卷之十¶
+西方合論卷之十¶
 ¶
 
-10釋異門
-:PROPERTIES:
-:head: 第十釋異門
-:END:
-¶
+* 第十釋異門¶
 
 夫西方大旨，經中自明；淨土要門，諸論具¶
 釋。如天親、智者、海東、越溪等，皆抉發幽微，¶
