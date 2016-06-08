@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:35.185817
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
@@ -15,7 +15,7 @@
  西方合論卷之九¶
 ¶
 
-9修持門
+* 9修持門
 :PROPERTIES:
 :head: 第九修持門
 :END:

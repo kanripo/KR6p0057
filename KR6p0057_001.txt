@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:34.971070
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 西方合論
 #+PROPERTY: CBETA_ID T47n1976
 #+PROPERTY: ID KR6p0057
@@ -12,7 +12,7 @@
 ¶
 No.1976¶
 
-重刻西方合論序
+* 重刻西方合論序
 :PROPERTIES:
 :head: 重刻西方合論序
 :END:
@@ -82,7 +82,7 @@ No.1976¶
 <pb:KR6p0057_T_001-0385c>¶
 ¶
 
-西方合論敘
+* 西方合論敘
 :PROPERTIES:
 :head: 西方合論敘
 :END:
@@ -336,7 +336,7 @@ No.1976¶
 ¶
 ¶
 
-西方合論引
+* 西方合論引
 :PROPERTIES:
 :head: 西方合論引
 :END:
@@ -387,7 +387,7 @@ No.1976¶
 ¶
 ¶
 
-西方合論標註跋
+* 西方合論標註跋
 :PROPERTIES:
 :head: 西方合論標註跋
 :END:
@@ -413,7 +413,7 @@ No.1976¶
 人如奇力疾謹識¶
 ¶
 
-珂雪齋紀夢
+* 珂雪齋紀夢
 :PROPERTIES:
 :head: 珂雪齋紀夢
 :END:
@@ -516,7 +516,7 @@ No.1976¶
  西方合論卷之一¶
 ¶
 
-1剎土門
+* 1剎土門
 :PROPERTIES:
 :head: 第一剎土門
 :END:
